@@ -4,9 +4,8 @@
 
  - [Magic Protocol](https://leastauthority.com/static/publications/Magic_Protocol_Final_Audit_Report_Least%20Authortity_Jan2023.pdf) 
  - [Saddle Finance](https://leastauthority.com/static/publications/Least_Authority_Thesis_Saddle_Finance_Metapool_Smart_Contracts_Updated_Final_Audit_Report.pdf) 
- - [Alex Protocol](https://leastauthority.com/static/publications/LeastAuthority_ALEX_Protocol_Smart_Contracts_Final_Audit_Report.pdf) 
  - [Meta pool](https://leastauthority.com/static/publications/Least_Authority_Thesis_Saddle_Finance_Metapool_Smart_Contracts_Updated_Final_Audit_Report.pdf) 
- - [Trust machines](https://leastauthority.com/static/publications/LeastAuthority_Trust_Machines_Multisafe_Final_Audit_Report.pdf) 
+   
 
 ### Code4Arena
 
